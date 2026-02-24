@@ -1,0 +1,75 @@
+{
+  "yomi": "づ",
+  "index": "33",
+  "totalCount": 8,
+  "collectedAt": "2026-02-24T10:32:17.103Z",
+  "entries": [
+    {
+      "kanji": "洞口",
+      "readings": [
+        "ほらぐち",
+        "どうぐち",
+        "ずぐち",
+        "づぐち"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "図師",
+      "readings": [
+        "ずし",
+        "づし"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "図司",
+      "readings": [
+        "ずし",
+        "づし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "頭師",
+      "readings": [
+        "ずし",
+        "づし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "頭川",
+      "readings": [
+        "ずかわ",
+        "づかわ",
+        "ずがわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "頭高",
+      "readings": [
+        "ずこう",
+        "づこう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "頭応",
+      "readings": [
+        "ずおう",
+        "づおう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "圖師",
+      "readings": [
+        "ずし",
+        "づし"
+      ],
+      "population": "ごくわずか"
+    }
+  ]
+}

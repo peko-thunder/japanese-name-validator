@@ -1,0 +1,808 @@
+{
+  "yomi": "け",
+  "index": "09",
+  "totalCount": 94,
+  "collectedAt": "2026-02-24T10:29:59.346Z",
+  "entries": [
+    {
+      "kanji": "桂",
+      "readings": [
+        "かつら",
+        "けい"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "外川",
+      "readings": [
+        "とがわ",
+        "そとかわ",
+        "とかわ",
+        "そとがわ",
+        "けがわ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "剣持",
+      "readings": [
+        "けんもち",
+        "けんもつ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "毛塚",
+      "readings": [
+        "けづか",
+        "けつか",
+        "けずか"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "間中",
+      "readings": [
+        "まなか",
+        "けんちゅう"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "建部",
+      "readings": [
+        "たてべ",
+        "たけべ",
+        "たちべ",
+        "けんぺ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "桂田",
+      "readings": [
+        "かつらだ",
+        "かつらた",
+        "けいだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "刑部",
+      "readings": [
+        "おさかべ",
+        "ぎょうぶ",
+        "けいぶ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "見上",
+      "readings": [
+        "みかみ",
+        "みあげ",
+        "けんじょう"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "犬童",
+      "readings": [
+        "いんどう",
+        "いぬどう",
+        "けんどう"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花見",
+      "readings": [
+        "はなみ",
+        "けみ",
+        "けんみ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "兼城",
+      "readings": [
+        "かねしろ",
+        "かねき",
+        "けんじょう"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "計良",
+      "readings": [
+        "けら",
+        "けいら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "監物",
+      "readings": [
+        "けんもつ",
+        "けんもち"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "見田",
+      "readings": [
+        "みた",
+        "けんだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花里",
+      "readings": [
+        "はなざと",
+        "はなさと",
+        "けり"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "家本",
+      "readings": [
+        "いえもと",
+        "かもと",
+        "やもと",
+        "けもと"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "釼持",
+      "readings": [
+        "けんもつ",
+        "けんもち"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "気田",
+      "readings": [
+        "けた",
+        "きだ",
+        "けだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "煙山",
+      "readings": [
+        "けむりやま",
+        "けむやま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "毛内",
+      "readings": [
+        "もうない",
+        "けうち",
+        "けない",
+        "もない"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "慶田",
+      "readings": [
+        "けいだ",
+        "いわいだ",
+        "けいた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "権代",
+      "readings": [
+        "ごんだい",
+        "けんだい"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "権",
+      "readings": [
+        "ごん",
+        "けん"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "気仙",
+      "readings": [
+        "きせん",
+        "けせん"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "劔持",
+      "readings": [
+        "けんもつ",
+        "けんもち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "剱持",
+      "readings": [
+        "けんもち",
+        "けんもつ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "花倉",
+      "readings": [
+        "はなくら",
+        "けくら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "見野",
+      "readings": [
+        "みの",
+        "けんの"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "佳山",
+      "readings": [
+        "かやま",
+        "よしやま",
+        "けいやま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "毛戸",
+      "readings": [
+        "けど",
+        "けと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "見藤",
+      "readings": [
+        "みとう",
+        "けんとう",
+        "みふじ",
+        "けんどう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "祁答院",
+      "readings": [
+        "けどういん",
+        "きとういん",
+        "けとういん"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "劒持",
+      "readings": [
+        "けんもつ",
+        "けんもち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "欅田",
+      "readings": [
+        "くにぎた",
+        "けやきだ",
+        "くぬぎだ",
+        "くぬぎた",
+        "くにぎだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "兼定",
+      "readings": [
+        "かねさだ",
+        "けんじょう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "間谷",
+      "readings": [
+        "またに",
+        "けんたに",
+        "まだに",
+        "かんたに",
+        "あいたに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "慶伊",
+      "readings": [
+        "けいい",
+        "けい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "検見崎",
+      "readings": [
+        "けんみざき",
+        "けんみさき",
+        "けみざき",
+        "けみさき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "見代",
+      "readings": [
+        "みよ",
+        "みしろ",
+        "けんだい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "癸生川",
+      "readings": [
+        "けぶかわ",
+        "きぶかわ",
+        "けしょうがわ",
+        "けしょがわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "景",
+      "readings": [
+        "かげ",
+        "けい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "計",
+      "readings": [
+        "はかり",
+        "けい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "慶",
+      "readings": [
+        "いわい",
+        "けい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "渓",
+      "readings": [
+        "たに",
+        "けい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "健",
+      "readings": [
+        "すこやか",
+        "けん"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "堅持",
+      "readings": [
+        "けんもち",
+        "けんもつ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "境内",
+      "readings": [
+        "さかいうち",
+        "さかえうち",
+        "けいだい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "釼田",
+      "readings": [
+        "つるぎだ",
+        "けんだ",
+        "つるぎた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "毛谷",
+      "readings": [
+        "けたに",
+        "けや",
+        "もたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "毛藤",
+      "readings": [
+        "もとう",
+        "もうとう",
+        "けとう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "釼谷",
+      "readings": [
+        "つるぎや",
+        "けんたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "計見",
+      "readings": [
+        "けいみ",
+        "けんみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "計田",
+      "readings": [
+        "はかた",
+        "とだ",
+        "けだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "堅達",
+      "readings": [
+        "げんだつ",
+        "げんたつ",
+        "けんたつ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "毛束",
+      "readings": [
+        "けづか",
+        "けつか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "華蔵閣",
+      "readings": [
+        "けずかく",
+        "けぞうかく"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "系井",
+      "readings": [
+        "けいい",
+        "けい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "槻本",
+      "readings": [
+        "つきもと",
+        "けやきもと"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "家老",
+      "readings": [
+        "かろう",
+        "けら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "毛島",
+      "readings": [
+        "けじま",
+        "けしま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "見津",
+      "readings": [
+        "みつ",
+        "けんつ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "氣仙",
+      "readings": [
+        "きせん",
+        "けせん"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "謙司",
+      "readings": [
+        "けんじ",
+        "けんし"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "健木",
+      "readings": [
+        "けんき",
+        "けんぎ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "剱地",
+      "readings": [
+        "つるぎち",
+        "けんち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "見当",
+      "readings": [
+        "みあたり",
+        "みとう",
+        "けんとう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "兼上",
+      "readings": [
+        "かねがみ",
+        "かねかみ",
+        "けんじょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "景野",
+      "readings": [
+        "かげの",
+        "けいの"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "毛保",
+      "readings": [
+        "けほ",
+        "けぼ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "慶児",
+      "readings": [
+        "けいご",
+        "けいこ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "京馬",
+      "readings": [
+        "けば",
+        "けま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "釼地",
+      "readings": [
+        "つるぎじ",
+        "けんじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "計野",
+      "readings": [
+        "はかりの",
+        "けいの"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "慶越",
+      "readings": [
+        "けいごし",
+        "けいごえ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "今朝戸",
+      "readings": [
+        "けさど",
+        "けさと"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "芥屋",
+      "readings": [
+        "あくたや",
+        "けや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "堅固山",
+      "readings": [
+        "けんごやま",
+        "けごやま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "建藤",
+      "readings": [
+        "こんどう",
+        "けんどう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "螻川内",
+      "readings": [
+        "けらかわうち",
+        "けらかわち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "權",
+      "readings": [
+        "ごん",
+        "けん"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "毛尾",
+      "readings": [
+        "けび",
+        "けお"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "経",
+      "readings": [
+        "きょう",
+        "けい",
+        "たて"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "兼保",
+      "readings": [
+        "かねやす",
+        "けんぼ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "慶井",
+      "readings": [
+        "けいい",
+        "けい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "権城",
+      "readings": [
+        "ごんじょう",
+        "けんじょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "間遠",
+      "readings": [
+        "まどう",
+        "まどお",
+        "けんとお"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "計倉",
+      "readings": [
+        "とくら",
+        "けいくら",
+        "はかりくら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "氣田",
+      "readings": [
+        "けた",
+        "きだ",
+        "けだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "慶佐次",
+      "readings": [
+        "けさし",
+        "けさじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "劍持",
+      "readings": [
+        "けんもち",
+        "けんもつ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "家戸",
+      "readings": [
+        "かと",
+        "かど",
+        "けど"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "見持",
+      "readings": [
+        "けんもつ",
+        "けんもち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "乾野",
+      "readings": [
+        "いぬいの",
+        "けんの",
+        "かんの"
+      ],
+      "population": "ごくわずか"
+    }
+  ]
+}

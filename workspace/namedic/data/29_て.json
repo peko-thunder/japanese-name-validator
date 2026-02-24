@@ -1,0 +1,976 @@
+{
+  "yomi": "て",
+  "index": "29",
+  "totalCount": 116,
+  "collectedAt": "2026-02-24T10:31:55.556Z",
+  "entries": [
+    {
+      "kanji": "寺田",
+      "readings": [
+        "てらだ",
+        "てらた"
+      ],
+      "population": "多い"
+    },
+    {
+      "kanji": "天野",
+      "readings": [
+        "あまの",
+        "てんの"
+      ],
+      "population": "多い"
+    },
+    {
+      "kanji": "手塚",
+      "readings": [
+        "てづか",
+        "てずか",
+        "てつか"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "寺島",
+      "readings": [
+        "てらしま",
+        "てらじま"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "豊島",
+      "readings": [
+        "とよしま",
+        "としま",
+        "てしま"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "寺沢",
+      "readings": [
+        "てらさわ",
+        "てらざわ"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "手島",
+      "readings": [
+        "てじま",
+        "てしま"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "寺崎",
+      "readings": [
+        "てらさき",
+        "てらざき"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "手嶋",
+      "readings": [
+        "てじま",
+        "てしま"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "寺嶋",
+      "readings": [
+        "てらしま",
+        "てらじま"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "寺川",
+      "readings": [
+        "てらかわ",
+        "てらがわ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "天田",
+      "readings": [
+        "あまだ",
+        "てんだ",
+        "あまた"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "豊嶋",
+      "readings": [
+        "とよしま",
+        "としま",
+        "てしま"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "寺地",
+      "readings": [
+        "てらじ",
+        "てらち",
+        "てらぢ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "天羽",
+      "readings": [
+        "あもう",
+        "あまは",
+        "あまば",
+        "あまう",
+        "てんば",
+        "あんば"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "寺谷",
+      "readings": [
+        "てらたに",
+        "てらや"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "天谷",
+      "readings": [
+        "あまや",
+        "あまがい",
+        "てんや",
+        "あまたに",
+        "てんたに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "天川",
+      "readings": [
+        "あまかわ",
+        "てかわ",
+        "てんかわ",
+        "あまがわ",
+        "てがわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "寺戸",
+      "readings": [
+        "てらど",
+        "てらと"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "天満",
+      "readings": [
+        "てんま",
+        "てんまん"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "天本",
+      "readings": [
+        "あまもと",
+        "てんもと"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "勅使河原",
+      "readings": [
+        "てしがわら",
+        "てしがはら",
+        "てしかはら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "寺原",
+      "readings": [
+        "てらはら",
+        "てらばる"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "寺園",
+      "readings": [
+        "てらぞの",
+        "てらその"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "寺澤",
+      "readings": [
+        "てらさわ",
+        "てらざわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "手代木",
+      "readings": [
+        "てしろぎ",
+        "てしろき"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "天内",
+      "readings": [
+        "あまない",
+        "あまうち",
+        "てんない"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "勅使川原",
+      "readings": [
+        "てしがわら",
+        "てしがはら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "天",
+      "readings": [
+        "あま",
+        "てん"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "天海",
+      "readings": [
+        "あまがい",
+        "あまみ",
+        "てんかい",
+        "あまかい"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "天井",
+      "readings": [
+        "あまい",
+        "てんじょう"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "樋高",
+      "readings": [
+        "ひだか",
+        "てたか",
+        "てだか",
+        "ひたか"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "手束",
+      "readings": [
+        "てづか",
+        "てつか",
+        "てずか"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "定",
+      "readings": [
+        "さだ",
+        "さだめ",
+        "てい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺平",
+      "readings": [
+        "てらだいら",
+        "てらひら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "天明",
+      "readings": [
+        "てんみょう",
+        "てんめい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺迫",
+      "readings": [
+        "てらさこ",
+        "てらさく",
+        "てらせこ",
+        "てらざこ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "堤下",
+      "readings": [
+        "つつみした",
+        "どてした",
+        "ていした"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "手崎",
+      "readings": [
+        "てさき",
+        "てざき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "貞岡",
+      "readings": [
+        "さだおか",
+        "ていおか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺上",
+      "readings": [
+        "てらかみ",
+        "てらがみ",
+        "てらうえ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺越",
+      "readings": [
+        "てらこし",
+        "てらごし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "貞",
+      "readings": [
+        "さだ",
+        "てい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺薗",
+      "readings": [
+        "てらぞの",
+        "てらその"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "手登根",
+      "readings": [
+        "てどこん",
+        "てとね"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "手銭",
+      "readings": [
+        "てぜん",
+        "てぜに",
+        "てせん"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "鉄谷",
+      "readings": [
+        "てつたに",
+        "てつや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺家",
+      "readings": [
+        "じけ",
+        "てらいえ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "手倉森",
+      "readings": [
+        "てぐらもり",
+        "てくらもり"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺岸",
+      "readings": [
+        "てらぎし",
+        "てらきし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "天下井",
+      "readings": [
+        "あまがい",
+        "てんがい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "光木",
+      "readings": [
+        "みつき",
+        "みつぎ",
+        "てるき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "手川",
+      "readings": [
+        "てがわ",
+        "てかわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "照田",
+      "readings": [
+        "てるた",
+        "しょうだ",
+        "てるだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺腰",
+      "readings": [
+        "てらこし",
+        "てらごし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "天水",
+      "readings": [
+        "あまみず",
+        "てんみず",
+        "てんすい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "照",
+      "readings": [
+        "てらし",
+        "てらす"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "手計",
+      "readings": [
+        "てばかり",
+        "てばか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺司",
+      "readings": [
+        "てらじ",
+        "てらし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "寺東",
+      "readings": [
+        "てらひがし",
+        "てらとう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "手戸",
+      "readings": [
+        "てど",
+        "てと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "天藤",
+      "readings": [
+        "あまふじ",
+        "てんどう",
+        "てんとう",
+        "あまとう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "天花寺",
+      "readings": [
+        "てんげいじ",
+        "てんげじ",
+        "てんかじ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "廷々",
+      "readings": [
+        "ていてい",
+        "てて"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺分",
+      "readings": [
+        "てらぶん",
+        "てらわけ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鉄穴",
+      "readings": [
+        "かんな",
+        "てつあな"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "天王寺谷",
+      "readings": [
+        "てんのうじや",
+        "てんのうじたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手嶌",
+      "readings": [
+        "てじま",
+        "てしま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手鹿",
+      "readings": [
+        "てが",
+        "てじか",
+        "てしか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手取",
+      "readings": [
+        "てどり",
+        "てとり"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺嶌",
+      "readings": [
+        "てらしま",
+        "てらじま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺垣内",
+      "readings": [
+        "てらがうち",
+        "てらがいと",
+        "てらかきうち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "天村",
+      "readings": [
+        "あまむら",
+        "てんむら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺河内",
+      "readings": [
+        "てらごうち",
+        "てらこうち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "天前",
+      "readings": [
+        "てんで",
+        "てんぜん"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鉄原",
+      "readings": [
+        "かなはら",
+        "てつはら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺出",
+      "readings": [
+        "てらで",
+        "てらいで"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手辺",
+      "readings": [
+        "てべ",
+        "てなべ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鐵谷",
+      "readings": [
+        "てつたに",
+        "てつや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺神戸",
+      "readings": [
+        "てらかど",
+        "てらこうべ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "天満戸",
+      "readings": [
+        "あまのえ",
+        "てんまど",
+        "あまど"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鉄島",
+      "readings": [
+        "てつしま",
+        "てつじま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "天満屋敷",
+      "readings": [
+        "てんまやしき",
+        "てんまんやしき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺端",
+      "readings": [
+        "てらばた",
+        "てらはた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手谷",
+      "readings": [
+        "てたに",
+        "てだに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手向",
+      "readings": [
+        "てむかい",
+        "てむく"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺津",
+      "readings": [
+        "てらづ",
+        "てらつ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺主",
+      "readings": [
+        "てらぬし",
+        "てらじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "丁山",
+      "readings": [
+        "ちょうざん",
+        "ていやま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鉄地河原",
+      "readings": [
+        "てちがわら",
+        "てっちがわら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺南",
+      "readings": [
+        "てらみなみ",
+        "てらなみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "照沢",
+      "readings": [
+        "てるさわ",
+        "てらさわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鉄崎",
+      "readings": [
+        "てつざき",
+        "てつさき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "堤上",
+      "readings": [
+        "つつみがみ",
+        "ていじょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手面",
+      "readings": [
+        "てづら",
+        "てつら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺延",
+      "readings": [
+        "てらのぶ",
+        "てらのべ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手越",
+      "readings": [
+        "てごし",
+        "てごえ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "天満谷",
+      "readings": [
+        "てんまや",
+        "てんまんや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鉄沢",
+      "readings": [
+        "てつざわ",
+        "てつさわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺河",
+      "readings": [
+        "てらかわ",
+        "てらがわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手平",
+      "readings": [
+        "てびら",
+        "てひら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鉄留",
+      "readings": [
+        "てつどめ",
+        "てつとめ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺堀",
+      "readings": [
+        "てらぼり",
+        "てらほり"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺生",
+      "readings": [
+        "てらう",
+        "てらしょう",
+        "てらぶ",
+        "てらお"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鉄石",
+      "readings": [
+        "てっせき",
+        "てついし"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺神",
+      "readings": [
+        "てらかみ",
+        "てらがみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺畠",
+      "readings": [
+        "てらはた",
+        "てらばたけ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "天島",
+      "readings": [
+        "てんしま",
+        "てしま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺舘",
+      "readings": [
+        "てらだて",
+        "てらたて"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手下",
+      "readings": [
+        "てが",
+        "てした"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺外",
+      "readings": [
+        "てらほか",
+        "てらそと"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鉄地川原",
+      "readings": [
+        "てちがわら",
+        "てっちがわら",
+        "てつちかわはら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "手錢",
+      "readings": [
+        "てぜん",
+        "てぜに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "堤井",
+      "readings": [
+        "つつい",
+        "ていい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺後",
+      "readings": [
+        "てらご",
+        "てらうしろ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "寺﨑",
+      "readings": [
+        "てらさき",
+        "てらざき"
+      ],
+      "population": "ごくわずか"
+    }
+  ]
+}

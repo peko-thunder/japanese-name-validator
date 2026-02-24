@@ -1,0 +1,51 @@
+{
+  "yomi": "ぞ",
+  "index": "25",
+  "totalCount": 5,
+  "collectedAt": "2026-02-24T10:31:25.957Z",
+  "entries": [
+    {
+      "kanji": "蔵",
+      "readings": [
+        "くら",
+        "ぞう"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "造田",
+      "readings": [
+        "ぞうだ",
+        "ぞうた",
+        "そうだ",
+        "ぞおだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "蔵地",
+      "readings": [
+        "くらち",
+        "ぞうち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "藏",
+      "readings": [
+        "くら",
+        "ぞう",
+        "そう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "造賀",
+      "readings": [
+        "ぞうか",
+        "ぞうが"
+      ],
+      "population": "ごくわずか"
+    }
+  ]
+}

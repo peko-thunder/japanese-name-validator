@@ -1,0 +1,970 @@
+{
+  "yomi": "ご",
+  "index": "15",
+  "totalCount": 110,
+  "collectedAt": "2026-02-24T10:30:28.282Z",
+  "entries": [
+    {
+      "kanji": "河原",
+      "readings": [
+        "かわはら",
+        "かわら",
+        "ごうばら",
+        "ごうはら",
+        "かはら",
+        "こうばら"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "合田",
+      "readings": [
+        "ごうだ",
+        "あいだ",
+        "ごうた",
+        "こうだ"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "神戸",
+      "readings": [
+        "かんべ",
+        "こうべ",
+        "ごうど",
+        "かんど",
+        "かんこ",
+        "かみと",
+        "こうど",
+        "かんと",
+        "かみべ",
+        "こうと"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "江田",
+      "readings": [
+        "えだ",
+        "こうだ",
+        "ごうだ",
+        "えた",
+        "こおだ"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "五島",
+      "readings": [
+        "ごとう",
+        "ごしま",
+        "いつしま"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "権田",
+      "readings": [
+        "ごんだ",
+        "ごんた"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "郷",
+      "readings": [
+        "ごう",
+        "さと",
+        "ごお"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "郷原",
+      "readings": [
+        "ごうはら",
+        "ごうばら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "神津",
+      "readings": [
+        "こうづ",
+        "かみつ",
+        "ごうづ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "郷田",
+      "readings": [
+        "ごうだ",
+        "ごうた",
+        "ごうでん"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "後田",
+      "readings": [
+        "うしろだ",
+        "のちだ",
+        "ごだ",
+        "ごうだ",
+        "あとだ",
+        "ごた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "五嶋",
+      "readings": [
+        "ごとう",
+        "ごしま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "合原",
+      "readings": [
+        "ごうはら",
+        "あいはら",
+        "ごうばる"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "五明",
+      "readings": [
+        "ごみょう",
+        "ごめい",
+        "いつあき"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "五井",
+      "readings": [
+        "ごい",
+        "ごのい",
+        "いつい"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "五日市",
+      "readings": [
+        "いつかいち",
+        "ごかいち"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "御前",
+      "readings": [
+        "みさき",
+        "ごぜん",
+        "おんまえ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "郷司",
+      "readings": [
+        "ごうし",
+        "ごうじ",
+        "ごおし"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "合津",
+      "readings": [
+        "ごうづ",
+        "ごうつ",
+        "あいづ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "合沢",
+      "readings": [
+        "あいざわ",
+        "あいさわ",
+        "ごうざわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "後村",
+      "readings": [
+        "あとむら",
+        "うしろむら",
+        "ごむら",
+        "のちむら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "五郎丸",
+      "readings": [
+        "ごろうまる",
+        "ごろまる"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "後野",
+      "readings": [
+        "ごの",
+        "うしろの",
+        "ごうの",
+        "あとの",
+        "こうの",
+        "のちの",
+        "ごや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "江",
+      "readings": [
+        "こう",
+        "ごう",
+        "いりえ",
+        "え"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "後呂",
+      "readings": [
+        "うしろ",
+        "ごろ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "五戸",
+      "readings": [
+        "ごのへ",
+        "ごと",
+        "ごのえ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "権守",
+      "readings": [
+        "ごんもり",
+        "ごんのかみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "合谷",
+      "readings": [
+        "ごうや",
+        "ごうたに",
+        "あいたに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "後上",
+      "readings": [
+        "ごがみ",
+        "ごのうえ",
+        "ごかみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "後谷",
+      "readings": [
+        "うしろだに",
+        "うしろたに",
+        "うしろや",
+        "ごうたに",
+        "ごたに",
+        "うしろやつ",
+        "ごしたに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "郷津",
+      "readings": [
+        "ごうづ",
+        "ごうつ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "郷右近",
+      "readings": [
+        "ごうこん",
+        "ごううこん",
+        "ごおうこん",
+        "きょううこん"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "合戸",
+      "readings": [
+        "ごうと",
+        "ごうど",
+        "あいど"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "牛房",
+      "readings": [
+        "うしふさ",
+        "ごぼう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "後河内",
+      "readings": [
+        "うしろごうち",
+        "うしろこうち",
+        "あとごうち",
+        "うしろかわち",
+        "ごかうち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "江谷",
+      "readings": [
+        "えたに",
+        "ごうや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "五十木",
+      "readings": [
+        "いかるぎ",
+        "いそぎ",
+        "ごじゅうき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "五宝",
+      "readings": [
+        "ごほう",
+        "ごぼう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "吾田",
+      "readings": [
+        "あずた",
+        "ごた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "呉田",
+      "readings": [
+        "くれた",
+        "くれだ",
+        "ごでん"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "合木",
+      "readings": [
+        "ごうき",
+        "ごうぎ",
+        "あいき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "後神",
+      "readings": [
+        "ごかん",
+        "ごがみ",
+        "ごこう",
+        "あとがみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "伍賀",
+      "readings": [
+        "ごか",
+        "ごが"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "牛頭",
+      "readings": [
+        "ごず",
+        "ごうず"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "五輪",
+      "readings": [
+        "いつわ",
+        "ごりん"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "郷戸",
+      "readings": [
+        "ごうど",
+        "ごうと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "権頭",
+      "readings": [
+        "ごんどう",
+        "ごんとう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "後原",
+      "readings": [
+        "せどはら",
+        "せとはら",
+        "せどばら",
+        "ごはら",
+        "あとはら",
+        "うしろはら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "合瀬",
+      "readings": [
+        "おおせ",
+        "おうせ",
+        "ごうせ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "後出",
+      "readings": [
+        "のちで",
+        "うしろで",
+        "のちいで",
+        "ごいで"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "五林",
+      "readings": [
+        "ごりん",
+        "ごばやし",
+        "いつばやし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "郷上",
+      "readings": [
+        "ごうがみ",
+        "ごうのかみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "後安",
+      "readings": [
+        "ごあん",
+        "ごあ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "御供田",
+      "readings": [
+        "ごくでん",
+        "ごくだ",
+        "おともだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "呉島",
+      "readings": [
+        "くれしま",
+        "ごとう",
+        "ごしま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "伍井",
+      "readings": [
+        "いつい",
+        "ごい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "五上",
+      "readings": [
+        "ごがみ",
+        "ごのかみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "護守",
+      "readings": [
+        "ごのかみ",
+        "ごもり"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五野",
+      "readings": [
+        "いつの",
+        "ごの"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "御座",
+      "readings": [
+        "おざ",
+        "みざ",
+        "ござ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五木",
+      "readings": [
+        "いつき",
+        "ごき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五郎川",
+      "readings": [
+        "ごろかわ",
+        "ごろうがわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "胡間",
+      "readings": [
+        "こま",
+        "ごま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "郷渡",
+      "readings": [
+        "ごうど",
+        "ごうと"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "胡屋",
+      "readings": [
+        "えびすや",
+        "ごや",
+        "こや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "權守",
+      "readings": [
+        "ごんもり",
+        "ごんのかみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "合ケ坪",
+      "readings": [
+        "ごがつぼ",
+        "ごうがつぼ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五谷",
+      "readings": [
+        "ごたに",
+        "ごや",
+        "ごうや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "後中",
+      "readings": [
+        "うしろなか",
+        "ごなか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五百田",
+      "readings": [
+        "いおた",
+        "ごひゃくだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "御領原",
+      "readings": [
+        "ごりょうはら",
+        "ごりょうばら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五位塚",
+      "readings": [
+        "ごいつか",
+        "ごいづか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "勤息",
+      "readings": [
+        "きんそく",
+        "ごんそく"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "牛鼻",
+      "readings": [
+        "うしばな",
+        "ごはな"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "郷倉",
+      "readings": [
+        "ごうくら",
+        "ごおくら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "午頭",
+      "readings": [
+        "ごとう",
+        "ごず"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五神",
+      "readings": [
+        "ごかみ",
+        "ごがみ",
+        "ごのかみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "郷谷",
+      "readings": [
+        "ごうや",
+        "ごうたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五浦",
+      "readings": [
+        "いつうら",
+        "ごうら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "郷園",
+      "readings": [
+        "ごうぞの",
+        "ごうその"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "牛王",
+      "readings": [
+        "うしおう",
+        "ごおう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "郷本",
+      "readings": [
+        "ごうもと",
+        "ごうのもと"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五伝木",
+      "readings": [
+        "ごでんぎ",
+        "ごでんき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "御幸",
+      "readings": [
+        "みゆき",
+        "ごこう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五傳木",
+      "readings": [
+        "ごでんぎ",
+        "ごでんき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "強田",
+      "readings": [
+        "こわだ",
+        "きょうだ",
+        "きょうた",
+        "ごうだ",
+        "きよた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五荘",
+      "readings": [
+        "ごしょう",
+        "ごそう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五郎谷",
+      "readings": [
+        "ごろうや",
+        "ごろうたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五宮",
+      "readings": [
+        "いつみや",
+        "ごみや",
+        "いつのみや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五郎部",
+      "readings": [
+        "ごろべ",
+        "ごろうべ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五嶌",
+      "readings": [
+        "ごとう",
+        "ごしま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "郷久",
+      "readings": [
+        "さとひさ",
+        "ごうく"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "後竹",
+      "readings": [
+        "うしろたけ",
+        "ごたけ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "護城",
+      "readings": [
+        "もりき",
+        "ごじょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "後島",
+      "readings": [
+        "ごしま",
+        "のちじま",
+        "ごとう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五次",
+      "readings": [
+        "ごじ",
+        "ごつぎ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "剛家",
+      "readings": [
+        "こうげ",
+        "こうけ",
+        "ごうや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "権谷",
+      "readings": [
+        "ごんや",
+        "ごんたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "後生川",
+      "readings": [
+        "ごしょうがわ",
+        "ごしょがわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "郷木",
+      "readings": [
+        "ごうぎ",
+        "ごうき",
+        "ごおぎ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五十地",
+      "readings": [
+        "いそち",
+        "ごじゅうち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "後城",
+      "readings": [
+        "ごじろ",
+        "ごじょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五老海",
+      "readings": [
+        "いさみ",
+        "ごろうかい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "牛造",
+      "readings": [
+        "うしづくり",
+        "ごぞう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "後道",
+      "readings": [
+        "うしろみち",
+        "ごとう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "厳田",
+      "readings": [
+        "いわた",
+        "ごんだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五田",
+      "readings": [
+        "ごだ",
+        "いつだ",
+        "ごた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "権太",
+      "readings": [
+        "ごんだ",
+        "ごんた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "五影堂",
+      "readings": [
+        "ごえいどう",
+        "ごえどう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "郷頭",
+      "readings": [
+        "ごとう",
+        "ごうとう"
+      ],
+      "population": "ごくわずか"
+    }
+  ]
+}

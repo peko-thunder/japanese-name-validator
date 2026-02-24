@@ -1,0 +1,95 @@
+{
+  "yomi": "ぢ",
+  "index": "32",
+  "totalCount": 10,
+  "collectedAt": "2026-02-24T10:32:14.980Z",
+  "entries": [
+    {
+      "kanji": "地引",
+      "readings": [
+        "じびき",
+        "ぢびき",
+        "ちびき",
+        "じひき"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "治田",
+      "readings": [
+        "はるた",
+        "じだ",
+        "はった",
+        "じた",
+        "ぢだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "地頭",
+      "readings": [
+        "じとう",
+        "ぢとう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "地井",
+      "readings": [
+        "ちい",
+        "じい",
+        "ぢい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "地子",
+      "readings": [
+        "じし",
+        "ぢこ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "地造",
+      "readings": [
+        "じぞう",
+        "ぢぞう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "地後",
+      "readings": [
+        "じご",
+        "ぢご"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "地倶",
+      "readings": [
+        "ちぐ",
+        "じぐ",
+        "ぢぐ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "地丸",
+      "readings": [
+        "じまる",
+        "ぢまる"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "地釜",
+      "readings": [
+        "じがま",
+        "ぢがま"
+      ],
+      "population": "ごくわずか"
+    }
+  ]
+}

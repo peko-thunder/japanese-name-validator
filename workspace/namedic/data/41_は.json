@@ -1,0 +1,4772 @@
+{
+  "yomi": "は",
+  "index": "41",
+  "totalCount": 559,
+  "collectedAt": "2026-02-24T10:33:04.272Z",
+  "entries": [
+    {
+      "kanji": "森",
+      "readings": [
+        "もり",
+        "はやし"
+      ],
+      "population": "とても多い"
+    },
+    {
+      "kanji": "長谷川",
+      "readings": [
+        "はせがわ",
+        "はせかわ"
+      ],
+      "population": "とても多い"
+    },
+    {
+      "kanji": "原田",
+      "readings": [
+        "はらだ",
+        "はらた"
+      ],
+      "population": "とても多い"
+    },
+    {
+      "kanji": "浜田",
+      "readings": [
+        "はまだ",
+        "はまた"
+      ],
+      "population": "とても多い"
+    },
+    {
+      "kanji": "飯田",
+      "readings": [
+        "いいだ",
+        "はんだ",
+        "いいた"
+      ],
+      "population": "とても多い"
+    },
+    {
+      "kanji": "早川",
+      "readings": [
+        "はやかわ",
+        "はやがわ"
+      ],
+      "population": "とても多い"
+    },
+    {
+      "kanji": "萩原",
+      "readings": [
+        "はぎわら",
+        "はぎはら",
+        "おぎはら",
+        "おぎわら"
+      ],
+      "population": "とても多い"
+    },
+    {
+      "kanji": "八木",
+      "readings": [
+        "やぎ",
+        "やつき",
+        "やつぎ",
+        "はちき",
+        "やき",
+        "はぎ"
+      ],
+      "population": "とても多い"
+    },
+    {
+      "kanji": "白石",
+      "readings": [
+        "しらいし",
+        "しろいし",
+        "はくいし",
+        "いらいし"
+      ],
+      "population": "とても多い"
+    },
+    {
+      "kanji": "坂田",
+      "readings": [
+        "さかた",
+        "はんだ",
+        "さかだ"
+      ],
+      "population": "多い"
+    },
+    {
+      "kanji": "白井",
+      "readings": [
+        "しらい",
+        "はくい",
+        "しろい"
+      ],
+      "population": "多い"
+    },
+    {
+      "kanji": "畠山",
+      "readings": [
+        "はたけやま",
+        "はたやま"
+      ],
+      "population": "多い"
+    },
+    {
+      "kanji": "飯島",
+      "readings": [
+        "いいじま",
+        "いいしま",
+        "はしま"
+      ],
+      "population": "多い"
+    },
+    {
+      "kanji": "林田",
+      "readings": [
+        "はやしだ",
+        "はやした",
+        "はやた"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "花田",
+      "readings": [
+        "はなだ",
+        "はなた"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "浜崎",
+      "readings": [
+        "はまさき",
+        "はまざき"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "畑中",
+      "readings": [
+        "はたなか",
+        "はたけなか"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "原口",
+      "readings": [
+        "はらぐち",
+        "はらくち"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "畑",
+      "readings": [
+        "はた",
+        "はたけ"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "早坂",
+      "readings": [
+        "はやさか",
+        "はやざか"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "半田",
+      "readings": [
+        "はんだ",
+        "はんた"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "秦",
+      "readings": [
+        "はた",
+        "はだ",
+        "しん",
+        "しんの"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "羽田",
+      "readings": [
+        "はだ",
+        "はねだ",
+        "はた",
+        "はねた"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "波多野",
+      "readings": [
+        "はたの",
+        "はだの"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "橋爪",
+      "readings": [
+        "はしづめ",
+        "はしずめ",
+        "はしつめ"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "白鳥",
+      "readings": [
+        "しらとり",
+        "しろとり",
+        "はくちょう"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "坂野",
+      "readings": [
+        "さかの",
+        "ばんの",
+        "はんの"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "畠中",
+      "readings": [
+        "はたなか",
+        "はたけなか"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "八田",
+      "readings": [
+        "はった",
+        "やつだ",
+        "はちだ",
+        "やだ",
+        "はちた",
+        "はた"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "迫田",
+      "readings": [
+        "さこだ",
+        "さこた",
+        "さくた",
+        "はくた"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "畑山",
+      "readings": [
+        "はたやま",
+        "はたけやま"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "八幡",
+      "readings": [
+        "やはた",
+        "やわた",
+        "はちまん",
+        "はば"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "袴田",
+      "readings": [
+        "はかまだ",
+        "はかまた"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "橋詰",
+      "readings": [
+        "はしづめ",
+        "はしずめ",
+        "はしつめ"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "羽鳥",
+      "readings": [
+        "はとり",
+        "はどり"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "半沢",
+      "readings": [
+        "はんざわ",
+        "はんさわ"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "春田",
+      "readings": [
+        "はるた",
+        "はるだ"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "濱田",
+      "readings": [
+        "はまだ",
+        "はまた"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "原島",
+      "readings": [
+        "はらしま",
+        "はらじま"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "白田",
+      "readings": [
+        "しらた",
+        "はくた",
+        "しろた",
+        "はくだ"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "速水",
+      "readings": [
+        "はやみ",
+        "はやみず"
+      ],
+      "population": "普通"
+    },
+    {
+      "kanji": "迫",
+      "readings": [
+        "さこ",
+        "せこ",
+        "はざま",
+        "はさま"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "阪田",
+      "readings": [
+        "さかた",
+        "はんだ",
+        "さかだ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "柏",
+      "readings": [
+        "かしわ",
+        "かし",
+        "はく"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "羽生",
+      "readings": [
+        "はにゅう",
+        "はぶ",
+        "はにう",
+        "はしょう"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "浜島",
+      "readings": [
+        "はまじま",
+        "はましま"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "栄",
+      "readings": [
+        "さかえ",
+        "えい",
+        "はなぶさ",
+        "さかい"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "白沢",
+      "readings": [
+        "しらさわ",
+        "しらざわ",
+        "しろさわ",
+        "はくさわ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "羽田野",
+      "readings": [
+        "はたの",
+        "はだの"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "花房",
+      "readings": [
+        "はなふさ",
+        "はなぶさ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "蜂谷",
+      "readings": [
+        "はちや",
+        "はちたに"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "浜谷",
+      "readings": [
+        "はまたに",
+        "はまや"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "白水",
+      "readings": [
+        "しらみず",
+        "しろうず",
+        "しろみず",
+        "はくすい"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "畑田",
+      "readings": [
+        "はただ",
+        "はたけだ",
+        "はたた"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "白戸",
+      "readings": [
+        "しらと",
+        "しろと",
+        "はくと"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "箱崎",
+      "readings": [
+        "はこざき",
+        "はこさき"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "浜川",
+      "readings": [
+        "はまかわ",
+        "はまがわ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "花沢",
+      "readings": [
+        "はなざわ",
+        "はなさわ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "羽山",
+      "readings": [
+        "はやま",
+        "はねやま"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "畠",
+      "readings": [
+        "はた",
+        "はたけ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "生野",
+      "readings": [
+        "いくの",
+        "しょうの",
+        "はいの",
+        "いきの",
+        "おいの",
+        "はえの",
+        "おぶの"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "伴野",
+      "readings": [
+        "ばんの",
+        "ともの",
+        "はんの"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "繁田",
+      "readings": [
+        "しげた",
+        "はんだ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "浜地",
+      "readings": [
+        "はまち",
+        "はまじ",
+        "はまぢ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "白山",
+      "readings": [
+        "しらやま",
+        "しろやま",
+        "はくざん"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "原沢",
+      "readings": [
+        "はらさわ",
+        "はらざわ"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "春原",
+      "readings": [
+        "すのはら",
+        "はるはら",
+        "すはら"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "花島",
+      "readings": [
+        "はなしま",
+        "はなじま"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "八尾",
+      "readings": [
+        "やお",
+        "はちお",
+        "やつお"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "早崎",
+      "readings": [
+        "はやさき",
+        "はやざき"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "秦野",
+      "readings": [
+        "はたの",
+        "はだの",
+        "しんの"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "萩谷",
+      "readings": [
+        "はぎや",
+        "はぎたに",
+        "はぎのや"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "間",
+      "readings": [
+        "はざま",
+        "あいだ",
+        "はさま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "張",
+      "readings": [
+        "ちょう",
+        "はり",
+        "はる"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "張替",
+      "readings": [
+        "はりがえ",
+        "はりかえ",
+        "はりがい",
+        "はりかい"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花谷",
+      "readings": [
+        "はなたに",
+        "はなや"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "八谷",
+      "readings": [
+        "はちや",
+        "やたがい",
+        "やたに",
+        "やつや",
+        "はちたに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "針谷",
+      "readings": [
+        "はりがい",
+        "はりや",
+        "はりがや",
+        "はりたに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花城",
+      "readings": [
+        "はなしろ",
+        "はなき",
+        "はなぎ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "蜂須賀",
+      "readings": [
+        "はちすか",
+        "はちすが"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "纐纈",
+      "readings": [
+        "こうけつ",
+        "はなぶさ",
+        "こうきつ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "光山",
+      "readings": [
+        "みつやま",
+        "こうやま",
+        "はぶやま",
+        "みちやま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "榛葉",
+      "readings": [
+        "しんば",
+        "しんは",
+        "はしば",
+        "しば"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花崎",
+      "readings": [
+        "はなざき",
+        "はなさき"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "林原",
+      "readings": [
+        "はやしばら",
+        "はやしはら",
+        "りんばら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "阪野",
+      "readings": [
+        "さかの",
+        "ばんの",
+        "はんの"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "箱田",
+      "readings": [
+        "はこだ",
+        "はこた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "初田",
+      "readings": [
+        "はつだ",
+        "はつた",
+        "はった"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "針生",
+      "readings": [
+        "はりう",
+        "はりゅう"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花柳",
+      "readings": [
+        "はなやぎ",
+        "はなやなぎ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "土師",
+      "readings": [
+        "はじ",
+        "はぜ",
+        "はし",
+        "はせ",
+        "どし"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "狭間",
+      "readings": [
+        "はざま",
+        "はさま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "八百",
+      "readings": [
+        "やお",
+        "はお"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "梁瀬",
+      "readings": [
+        "やなせ",
+        "はりせ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "白谷",
+      "readings": [
+        "しらたに",
+        "しろたに",
+        "はくたに",
+        "しらや",
+        "しろや",
+        "はくや"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽石",
+      "readings": [
+        "はねいし",
+        "はいし"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "薄",
+      "readings": [
+        "うすき",
+        "すすき",
+        "うす",
+        "うすい",
+        "はく"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "浜上",
+      "readings": [
+        "はまうえ",
+        "はまがみ",
+        "はまかみ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "英",
+      "readings": [
+        "はなぶさ",
+        "はなふさ",
+        "あなた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽原",
+      "readings": [
+        "はばら",
+        "はねはら",
+        "はいばら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "八坂",
+      "readings": [
+        "やさか",
+        "はちさか"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "林崎",
+      "readings": [
+        "はやしざき",
+        "りんざき",
+        "はやさき"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "半谷",
+      "readings": [
+        "はんがい",
+        "はんや",
+        "はんたに",
+        "なかたに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "波多",
+      "readings": [
+        "はた",
+        "はだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "芳川",
+      "readings": [
+        "よしかわ",
+        "はがわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "晴山",
+      "readings": [
+        "はれやま",
+        "はるやま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "波田",
+      "readings": [
+        "はだ",
+        "はた",
+        "なみた",
+        "かわた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "開",
+      "readings": [
+        "ひらき",
+        "はり",
+        "かい",
+        "はる"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "濱崎",
+      "readings": [
+        "はまさき",
+        "はまざき"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "白藤",
+      "readings": [
+        "しらふじ",
+        "はくとう",
+        "はくどう"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "原崎",
+      "readings": [
+        "はらさき",
+        "はらざき"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "坂場",
+      "readings": [
+        "さかば",
+        "ばんば",
+        "はんば"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "畠田",
+      "readings": [
+        "はただ",
+        "はたけだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "橋谷",
+      "readings": [
+        "はしや",
+        "はしたに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "温井",
+      "readings": [
+        "ぬくい",
+        "はるい"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "祝",
+      "readings": [
+        "いわい",
+        "ほうり",
+        "しゅく",
+        "ほおり",
+        "ゆわい",
+        "はふり"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "八角",
+      "readings": [
+        "やすみ",
+        "はっかく",
+        "ほずみ",
+        "ほすみ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "浜畑",
+      "readings": [
+        "はまはた",
+        "はまばた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "芳田",
+      "readings": [
+        "よしだ",
+        "はだ",
+        "よした"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "早水",
+      "readings": [
+        "はやみず",
+        "はやみ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "治田",
+      "readings": [
+        "はるた",
+        "じだ",
+        "はった",
+        "じた",
+        "ぢだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "蓮田",
+      "readings": [
+        "はすだ",
+        "れんだ",
+        "はすた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "八戸",
+      "readings": [
+        "はちのへ",
+        "やえ",
+        "はちのえ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "浜端",
+      "readings": [
+        "はまばた",
+        "はまはた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "反田",
+      "readings": [
+        "たんだ",
+        "そりた",
+        "そった",
+        "はんだ",
+        "そりだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "春口",
+      "readings": [
+        "はるぐち",
+        "はるくち"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "土倉",
+      "readings": [
+        "つちくら",
+        "とくら",
+        "どくら",
+        "はくら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "端",
+      "readings": [
+        "はた",
+        "はし",
+        "はな",
+        "はざま",
+        "はずれ",
+        "たん"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "橋立",
+      "readings": [
+        "はしだて",
+        "はしたて"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "畑沢",
+      "readings": [
+        "はたざわ",
+        "はたさわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "原嶋",
+      "readings": [
+        "はらしま",
+        "はらじま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "巴",
+      "readings": [
+        "ともえ",
+        "は"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "薄葉",
+      "readings": [
+        "うすば",
+        "うすは",
+        "はくば"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽生田",
+      "readings": [
+        "はにゅうだ",
+        "はにうだ",
+        "はぶた",
+        "はせだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "萩生田",
+      "readings": [
+        "はぎうだ",
+        "はぎゅうだ",
+        "はぎおいた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "白野",
+      "readings": [
+        "しらの",
+        "しろの",
+        "はくの"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "八柳",
+      "readings": [
+        "やつやなぎ",
+        "はちやなぎ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "端山",
+      "readings": [
+        "はやま",
+        "はしやま",
+        "はなやま",
+        "はたやま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花塚",
+      "readings": [
+        "はなつか",
+        "はなづか",
+        "はなずか"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花里",
+      "readings": [
+        "はなざと",
+        "はなさと",
+        "けり"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "梁",
+      "readings": [
+        "りょう",
+        "はり",
+        "やな"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "春藤",
+      "readings": [
+        "しゅんどう",
+        "しゅんとう",
+        "はるふじ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽深",
+      "readings": [
+        "はぶか",
+        "はふか"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "橋上",
+      "readings": [
+        "はしがみ",
+        "はしかみ",
+        "はしうえ",
+        "はしのうえ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "畑谷",
+      "readings": [
+        "はたや",
+        "はたたに",
+        "はただに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "浜津",
+      "readings": [
+        "はまつ",
+        "はまづ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "早藤",
+      "readings": [
+        "はやふじ",
+        "はやとう"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花畑",
+      "readings": [
+        "はなばた",
+        "はなはた",
+        "はなばたけ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "原園",
+      "readings": [
+        "はらぞの",
+        "はらその"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "原谷",
+      "readings": [
+        "はらたに",
+        "はらや"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "初谷",
+      "readings": [
+        "はつがい",
+        "はつや",
+        "はつたに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽毛田",
+      "readings": [
+        "はけた",
+        "はけだ",
+        "はもだ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "迫間",
+      "readings": [
+        "はざま",
+        "はさま",
+        "さこま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花上",
+      "readings": [
+        "はなうえ",
+        "はながみ",
+        "はなかみ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "花原",
+      "readings": [
+        "はなはら",
+        "はなばら",
+        "はなばる"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "林下",
+      "readings": [
+        "はやしした",
+        "はやした",
+        "りんか",
+        "りんげ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "幡谷",
+      "readings": [
+        "はたや",
+        "はたたに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "浜里",
+      "readings": [
+        "はまさと",
+        "はまざと"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "畑島",
+      "readings": [
+        "はたしま",
+        "はたじま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽立",
+      "readings": [
+        "はだて",
+        "はだち",
+        "はたち",
+        "はたて"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "初沢",
+      "readings": [
+        "はつざわ",
+        "はつさわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "初瀬",
+      "readings": [
+        "はつせ",
+        "はせ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽島",
+      "readings": [
+        "はしま",
+        "はじま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "半澤",
+      "readings": [
+        "はんざわ",
+        "はんさわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "八重尾",
+      "readings": [
+        "やえお",
+        "はえお"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽下",
+      "readings": [
+        "はが",
+        "はねした",
+        "はした"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "榛沢",
+      "readings": [
+        "はんざわ",
+        "はるさわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "林谷",
+      "readings": [
+        "はやしたに",
+        "はやしや",
+        "はやしだに",
+        "りんたに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽部",
+      "readings": [
+        "はべ",
+        "はぶ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "華",
+      "readings": [
+        "か",
+        "はな"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽地",
+      "readings": [
+        "はねじ",
+        "はねぢ",
+        "はじ",
+        "はねち",
+        "はち"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "灰谷",
+      "readings": [
+        "はいたに",
+        "はいや",
+        "はいだに"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "羽川",
+      "readings": [
+        "はがわ",
+        "はねかわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "白澤",
+      "readings": [
+        "しらさわ",
+        "しらざわ",
+        "しろさわ",
+        "はくさわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "頓宮",
+      "readings": [
+        "とんぐう",
+        "はやみ",
+        "とんみや",
+        "とみや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "八反田",
+      "readings": [
+        "はったんだ",
+        "はちたんだ",
+        "はたんだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "花立",
+      "readings": [
+        "はなたて",
+        "はなだて",
+        "はなたち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽切",
+      "readings": [
+        "はぎり",
+        "はきり"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "蓮",
+      "readings": [
+        "はす",
+        "はちす",
+        "れん"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "端野",
+      "readings": [
+        "はしの",
+        "はたの",
+        "はなの"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "畑崎",
+      "readings": [
+        "はたざき",
+        "はたさき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋谷田",
+      "readings": [
+        "はしやだ",
+        "はしやた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽倉",
+      "readings": [
+        "はぐら",
+        "はくら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "早山",
+      "readings": [
+        "はやま",
+        "そうやま",
+        "はややま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "泰",
+      "readings": [
+        "たい",
+        "はた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "畠沢",
+      "readings": [
+        "はたざわ",
+        "はたさわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "芳谷",
+      "readings": [
+        "よしたに",
+        "よしや",
+        "はがや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "半井",
+      "readings": [
+        "なからい",
+        "はんい",
+        "なかばい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "埴原",
+      "readings": [
+        "はいばら",
+        "はにはら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽二生",
+      "readings": [
+        "はにう",
+        "はにゅう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "土野",
+      "readings": [
+        "つちの",
+        "はの",
+        "ひじの"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "博田",
+      "readings": [
+        "はかた",
+        "はくた",
+        "ひろた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "白金",
+      "readings": [
+        "しろがね",
+        "しらかね",
+        "しらがね",
+        "しろかね",
+        "はっきん"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "袴塚",
+      "readings": [
+        "はかまつか",
+        "はかまづか",
+        "こづか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "花澤",
+      "readings": [
+        "はなざわ",
+        "はなさわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽染",
+      "readings": [
+        "はそめ",
+        "はぞめ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "春成",
+      "readings": [
+        "はるなり",
+        "はるなる"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "枦",
+      "readings": [
+        "はし",
+        "はぜ",
+        "はじ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽太",
+      "readings": [
+        "はぶた",
+        "はぶと",
+        "はた",
+        "はねだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽入田",
+      "readings": [
+        "はにゅうだ",
+        "はにうだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "初鹿野",
+      "readings": [
+        "はじかの",
+        "はつかの",
+        "はつがの"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "白間",
+      "readings": [
+        "しらま",
+        "はくま",
+        "しろま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋之口",
+      "readings": [
+        "はしのくち",
+        "はしのぐち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "服田",
+      "readings": [
+        "はった",
+        "ふくだ",
+        "はらだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋戸",
+      "readings": [
+        "はしど",
+        "はしと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "栄村",
+      "readings": [
+        "さかえむら",
+        "えいむら",
+        "えむら",
+        "はえむら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "花嶋",
+      "readings": [
+        "はなしま",
+        "はなじま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "瀬",
+      "readings": [
+        "せ",
+        "はやせ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽馬",
+      "readings": [
+        "はば",
+        "はま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "判治",
+      "readings": [
+        "はんじ",
+        "はんぢ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "萩沢",
+      "readings": [
+        "はぎさわ",
+        "はぎざわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "挾間",
+      "readings": [
+        "はざま",
+        "はさま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "畑川",
+      "readings": [
+        "はたがわ",
+        "はたかわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "八文字",
+      "readings": [
+        "やつもんじ",
+        "はちもんじ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽方",
+      "readings": [
+        "はかた",
+        "はがた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "灰原",
+      "readings": [
+        "はいばら",
+        "はいはら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波多腰",
+      "readings": [
+        "はたこし",
+        "はたごし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "針原",
+      "readings": [
+        "はりはら",
+        "はりばら",
+        "はりわら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "浜塚",
+      "readings": [
+        "はまつか",
+        "はまづか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "枦木",
+      "readings": [
+        "はぜき",
+        "はぜのき",
+        "はしき",
+        "はしのき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "白本",
+      "readings": [
+        "しらもと",
+        "しろもと",
+        "はくもと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "浜家",
+      "readings": [
+        "はまいえ",
+        "はまや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "原澤",
+      "readings": [
+        "はらさわ",
+        "はらざわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "埴田",
+      "readings": [
+        "はにだ",
+        "はにた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "配島",
+      "readings": [
+        "はいしま",
+        "はいじま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "畑地",
+      "readings": [
+        "はたち",
+        "はたじ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "蓮子",
+      "readings": [
+        "はつし",
+        "はすこ",
+        "はすし",
+        "はっし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽中田",
+      "readings": [
+        "はちゅうだ",
+        "はなかた",
+        "はなかだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波木井",
+      "readings": [
+        "はきい",
+        "はぎい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽広",
+      "readings": [
+        "はびろ",
+        "はひろ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "葉田",
+      "readings": [
+        "はだ",
+        "はた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "半杭",
+      "readings": [
+        "はんぐい",
+        "はんくい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "畑内",
+      "readings": [
+        "はたない",
+        "はたうち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "灰塚",
+      "readings": [
+        "はいづか",
+        "はいつか",
+        "はいずか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋向",
+      "readings": [
+        "はしむかい",
+        "はしが"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "早出",
+      "readings": [
+        "そうで",
+        "はやで",
+        "そおで"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "濱谷",
+      "readings": [
+        "はまたに",
+        "はまや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "濱川",
+      "readings": [
+        "はまかわ",
+        "はまがわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "生内",
+      "readings": [
+        "おぼない",
+        "しょうない",
+        "いくない",
+        "はえのうち",
+        "うぶない",
+        "いくうち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "早馬",
+      "readings": [
+        "はやま",
+        "はやうま",
+        "そうま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "南風原",
+      "readings": [
+        "はえばら",
+        "はいばら",
+        "はえばる"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "八瀬",
+      "readings": [
+        "やせ",
+        "はせ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "花戸",
+      "readings": [
+        "はなと",
+        "はなど"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "伯川",
+      "readings": [
+        "はくかわ",
+        "はくがわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "外立",
+      "readings": [
+        "はしだて",
+        "はしたて",
+        "そとだて"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋下",
+      "readings": [
+        "はしした",
+        "はしもと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "早福",
+      "readings": [
+        "そうふく",
+        "はやふく"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "浜沢",
+      "readings": [
+        "はまざわ",
+        "はまさわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "濱島",
+      "readings": [
+        "はまじま",
+        "はましま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽間",
+      "readings": [
+        "はざま",
+        "はま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "八崎",
+      "readings": [
+        "はっさき",
+        "やつざき",
+        "やざき",
+        "はちざき",
+        "はつさき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "浜頭",
+      "readings": [
+        "はまがしら",
+        "はまとう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "梁本",
+      "readings": [
+        "やなもと",
+        "はりもと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "濱地",
+      "readings": [
+        "はまち",
+        "はまじ",
+        "はまぢ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "張谷",
+      "readings": [
+        "はりがい",
+        "はりや",
+        "はりたに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "白原",
+      "readings": [
+        "しらはら",
+        "しろはら",
+        "はくはら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "架谷",
+      "readings": [
+        "はさたに",
+        "かや",
+        "はさや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "早渕",
+      "readings": [
+        "はやぶち",
+        "はやふち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽子田",
+      "readings": [
+        "はねだ",
+        "はねた",
+        "はこだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽尾",
+      "readings": [
+        "はお",
+        "はねお"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "生松",
+      "readings": [
+        "いくまつ",
+        "いきまつ",
+        "おいまつ",
+        "いけまつ",
+        "はえまつ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波々伯部",
+      "readings": [
+        "ほうかべ",
+        "ほおかべ",
+        "ほほかべ",
+        "ははかべ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽坂",
+      "readings": [
+        "はざか",
+        "はさか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "針替",
+      "readings": [
+        "はりがえ",
+        "はりかえ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "幡司",
+      "readings": [
+        "はたし",
+        "はたつか",
+        "はたつかさ",
+        "はたじ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "畑木",
+      "readings": [
+        "はたき",
+        "はたぎ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "発田",
+      "readings": [
+        "ほった",
+        "はった"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "八倉",
+      "readings": [
+        "やぐら",
+        "やくら",
+        "はちくら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "箱島",
+      "readings": [
+        "はこしま",
+        "はこじま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "半戸",
+      "readings": [
+        "はんど",
+        "はんと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋迫",
+      "readings": [
+        "はしさこ",
+        "はしざこ",
+        "はしせこ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "早原",
+      "readings": [
+        "はやはら",
+        "はやばら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "八馬",
+      "readings": [
+        "はちうま",
+        "はちま",
+        "やば"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "原国",
+      "readings": [
+        "はらくに",
+        "はらぐに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "埴生",
+      "readings": [
+        "はぶ",
+        "はにゅう",
+        "はにう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "端本",
+      "readings": [
+        "はしもと",
+        "はたもと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波木",
+      "readings": [
+        "なみき",
+        "はき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽根川",
+      "readings": [
+        "はねかわ",
+        "はねがわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "針貝",
+      "readings": [
+        "はりがい",
+        "はりかい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "飯作",
+      "readings": [
+        "いいさく",
+        "はんさく"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽月",
+      "readings": [
+        "はつき",
+        "はづき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋坂",
+      "readings": [
+        "はしざか",
+        "はしさか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "葉坂",
+      "readings": [
+        "はさか",
+        "はざか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽谷",
+      "readings": [
+        "はがい",
+        "はや",
+        "はたに",
+        "はだに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "櫨",
+      "readings": [
+        "はじ",
+        "はぜ",
+        "はし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋渡",
+      "readings": [
+        "はしど",
+        "はしわたり",
+        "はしわた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "鼻崎",
+      "readings": [
+        "はなさき",
+        "はなざき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "初瀬川",
+      "readings": [
+        "はつせがわ",
+        "はせがわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "早房",
+      "readings": [
+        "はやぶさ",
+        "はやふさ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "幡手",
+      "readings": [
+        "はたで",
+        "はたて"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋都",
+      "readings": [
+        "はしづめ",
+        "はしずめ",
+        "はしず",
+        "はしづ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "初崎",
+      "readings": [
+        "はつざき",
+        "はつさき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "原藤",
+      "readings": [
+        "はらふじ",
+        "はらとう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽澄",
+      "readings": [
+        "はずみ",
+        "はすみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "春見",
+      "readings": [
+        "かすみ",
+        "はるみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "八家",
+      "readings": [
+        "はっか",
+        "やか",
+        "はちや",
+        "はっけ",
+        "はちけ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "原富",
+      "readings": [
+        "はらとみ",
+        "はらどみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "春谷",
+      "readings": [
+        "かすや",
+        "はるたに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "端場",
+      "readings": [
+        "はば",
+        "はしば"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "幅崎",
+      "readings": [
+        "はばざき",
+        "はばさき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波切",
+      "readings": [
+        "なみきり",
+        "はぎり",
+        "はきり"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "伯田",
+      "readings": [
+        "はくた",
+        "はかた",
+        "はくだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "始沢",
+      "readings": [
+        "しざわ",
+        "はじめさわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "鳩谷",
+      "readings": [
+        "はとや",
+        "はとたに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波津久",
+      "readings": [
+        "はづく",
+        "はつく",
+        "はずく"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋津",
+      "readings": [
+        "はしづ",
+        "はしつ",
+        "はしず"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "栄本",
+      "readings": [
+        "えいもと",
+        "はえもと",
+        "さかえもと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽迫",
+      "readings": [
+        "はさこ",
+        "はせこ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "白島",
+      "readings": [
+        "しらしま",
+        "しろしま",
+        "はくしま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "浜嶋",
+      "readings": [
+        "はまじま",
+        "はましま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "飯崎",
+      "readings": [
+        "いいざき",
+        "はんざき",
+        "いいさき",
+        "はんさき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "箱谷",
+      "readings": [
+        "はこたに",
+        "はこや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波方",
+      "readings": [
+        "なみかた",
+        "はかた",
+        "はがた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "早島",
+      "readings": [
+        "はやしま",
+        "はやじま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "端村",
+      "readings": [
+        "はしむら",
+        "はたむら",
+        "はむら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "端谷",
+      "readings": [
+        "はしたに",
+        "はしや",
+        "はなや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "半下石",
+      "readings": [
+        "はんげいし",
+        "はんがいし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "春沢",
+      "readings": [
+        "はるさわ",
+        "はるざわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "幡地",
+      "readings": [
+        "はたじ",
+        "はたち",
+        "はたぢ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "晴披",
+      "readings": [
+        "はれまき",
+        "はるまき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "原塚",
+      "readings": [
+        "はらづか",
+        "はらつか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "泊野",
+      "readings": [
+        "とまりの",
+        "はくの"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "博",
+      "readings": [
+        "ひろし",
+        "はく"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波止",
+      "readings": [
+        "なみとめ",
+        "なみどめ",
+        "はと",
+        "はし"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋端",
+      "readings": [
+        "はしば",
+        "はしばた",
+        "はしはた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽土",
+      "readings": [
+        "はど",
+        "はづち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "原地",
+      "readings": [
+        "はらち",
+        "はらじ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "白丸",
+      "readings": [
+        "しろまる",
+        "はくまる"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "花方",
+      "readings": [
+        "はながた",
+        "はなかた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽嶋",
+      "readings": [
+        "はしま",
+        "はじま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "榛原",
+      "readings": [
+        "はいばら",
+        "はりはら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "濱上",
+      "readings": [
+        "はまうえ",
+        "はまがみ",
+        "はまかみ",
+        "はまじょう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "英保",
+      "readings": [
+        "あぼ",
+        "はぼ",
+        "えほ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "花家",
+      "readings": [
+        "はないえ",
+        "はなけ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "治武",
+      "readings": [
+        "じぶ",
+        "はるたけ",
+        "じむ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "垪和",
+      "readings": [
+        "はが",
+        "はわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "蓮香",
+      "readings": [
+        "はすか",
+        "はすのか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "旗谷",
+      "readings": [
+        "はたや",
+        "はたたに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽豆",
+      "readings": [
+        "はず",
+        "はづ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "花積",
+      "readings": [
+        "はなづみ",
+        "はなずみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "袴谷",
+      "readings": [
+        "はかまたに",
+        "はかまや",
+        "はかまだに"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "長谷坂",
+      "readings": [
+        "はせさか",
+        "はせざか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "早弓",
+      "readings": [
+        "はやゆみ",
+        "はやみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波佐",
+      "readings": [
+        "はさ",
+        "はざ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "箱嶋",
+      "readings": [
+        "はこしま",
+        "はこじま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "畑澤",
+      "readings": [
+        "はたざわ",
+        "はたさわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "橋富",
+      "readings": [
+        "はしとみ",
+        "はしどみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "花生",
+      "readings": [
+        "はなおい",
+        "はなお"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "走川",
+      "readings": [
+        "そがわ",
+        "はしりかわ",
+        "はせがわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "鳩宿",
+      "readings": [
+        "はとや",
+        "はとやど"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "長谷地",
+      "readings": [
+        "ながやち",
+        "はせち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "櫨川",
+      "readings": [
+        "はぜかわ",
+        "はぜがわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波瀬",
+      "readings": [
+        "なみせ",
+        "はせ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "萩崎",
+      "readings": [
+        "はぎざき",
+        "はぎさき"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "幡多",
+      "readings": [
+        "はた",
+        "はただ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽住",
+      "readings": [
+        "はずみ",
+        "はすみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "半浦",
+      "readings": [
+        "はんうら",
+        "はんのうら",
+        "はうら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "半山",
+      "readings": [
+        "はんやま",
+        "はやま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "拝藤",
+      "readings": [
+        "はいとう",
+        "はいどう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "幡田",
+      "readings": [
+        "はただ",
+        "はりた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "半仁田",
+      "readings": [
+        "はんにた",
+        "はにた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "沙魚川",
+      "readings": [
+        "はせがわ",
+        "はぜかわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波田地",
+      "readings": [
+        "はだち",
+        "はたち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "萩生",
+      "readings": [
+        "はぎう",
+        "はぎお",
+        "はぎゅう",
+        "はぎおい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "端崎",
+      "readings": [
+        "はしざき",
+        "はなざき",
+        "はたざき",
+        "はさき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "白駒",
+      "readings": [
+        "しろこま",
+        "しらこま",
+        "はっく"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "浜小路",
+      "readings": [
+        "はましょうじ",
+        "はまこうじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽多",
+      "readings": [
+        "はた",
+        "はだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "浜門",
+      "readings": [
+        "はまかど",
+        "はまじょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "埴谷",
+      "readings": [
+        "はにや",
+        "はにたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "端田",
+      "readings": [
+        "はしだ",
+        "はなだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "播谷",
+      "readings": [
+        "はりたに",
+        "はりや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "春海",
+      "readings": [
+        "はるみ",
+        "はるうみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "幡川",
+      "readings": [
+        "はたがわ",
+        "はたかわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "旗生",
+      "readings": [
+        "はたぶ",
+        "はたお"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽場崎",
+      "readings": [
+        "はばざき",
+        "はばさき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "波川",
+      "readings": [
+        "なみかわ",
+        "はかわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "磐田",
+      "readings": [
+        "いわた",
+        "はんだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱畑",
+      "readings": [
+        "はまはた",
+        "はまばた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八柄",
+      "readings": [
+        "やがら",
+        "はちえ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽江",
+      "readings": [
+        "はえ",
+        "はねえ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "幅上",
+      "readings": [
+        "はばうえ",
+        "はばがみ",
+        "はばかみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "涛崎",
+      "readings": [
+        "とさき",
+        "なみざき",
+        "はとざき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽布津",
+      "readings": [
+        "はぶつ",
+        "はふつ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八手亦",
+      "readings": [
+        "やてまた",
+        "はてまた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "畠谷",
+      "readings": [
+        "はたや",
+        "はたたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八野田",
+      "readings": [
+        "はちのた",
+        "はちのだ",
+        "やのだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "半波",
+      "readings": [
+        "はんば",
+        "はんなみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽吉",
+      "readings": [
+        "はよし",
+        "はねよし"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "原國",
+      "readings": [
+        "はらくに",
+        "はらぐに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "浜向",
+      "readings": [
+        "はまむき",
+        "はまむかい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "旗島",
+      "readings": [
+        "はたしま",
+        "はたじま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽合",
+      "readings": [
+        "はわい",
+        "はあい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱塚",
+      "readings": [
+        "はまつか",
+        "はまづか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "針塚",
+      "readings": [
+        "はりづか",
+        "はりつか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "早淵",
+      "readings": [
+        "はやぶち",
+        "はやふち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "櫨田",
+      "readings": [
+        "うつぎだ",
+        "うつぎた",
+        "はしだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "早猛",
+      "readings": [
+        "さたけ",
+        "はやたけ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "浜波",
+      "readings": [
+        "はまなみ",
+        "はまば"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "早兼",
+      "readings": [
+        "はやかね",
+        "はやがね"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "原留",
+      "readings": [
+        "はらどめ",
+        "はらとめ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "圃田",
+      "readings": [
+        "はたけた",
+        "はたけだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "腹部",
+      "readings": [
+        "ふくべ",
+        "はらべ",
+        "はっとり"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "端井",
+      "readings": [
+        "はしい",
+        "はない",
+        "はたい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "吐師",
+      "readings": [
+        "はし",
+        "はじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "端戸",
+      "readings": [
+        "はなと",
+        "はしど"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "波山",
+      "readings": [
+        "はやま",
+        "なみやま",
+        "はさん"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "塙阪",
+      "readings": [
+        "はねさか",
+        "はなさか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "幡南",
+      "readings": [
+        "はたなみ",
+        "はんなみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "榛澤",
+      "readings": [
+        "はんざわ",
+        "はるさわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "波連",
+      "readings": [
+        "はれん",
+        "はれ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "波積",
+      "readings": [
+        "はづみ",
+        "はずみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱澤",
+      "readings": [
+        "はまざわ",
+        "はまさわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "穂木",
+      "readings": [
+        "ほのき",
+        "ほき",
+        "はぜのき",
+        "ほぎ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八浦",
+      "readings": [
+        "やうら",
+        "はちうら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "蛤谷",
+      "readings": [
+        "はまや",
+        "はまたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱端",
+      "readings": [
+        "はまばた",
+        "はまはた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "發田",
+      "readings": [
+        "ほった",
+        "はった"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "英井",
+      "readings": [
+        "ひでい",
+        "はない"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "吐田",
+      "readings": [
+        "はんだ",
+        "はきた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱向",
+      "readings": [
+        "はまむき",
+        "はまむか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八井",
+      "readings": [
+        "やつい",
+        "はちい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "幟川",
+      "readings": [
+        "のぼりかわ",
+        "はたがわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "半井野",
+      "readings": [
+        "はいの",
+        "はんいの"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "泰野",
+      "readings": [
+        "はたの",
+        "はだの",
+        "やすの",
+        "しんの"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱操",
+      "readings": [
+        "はまぐり",
+        "はまそう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "釼",
+      "readings": [
+        "つるぎ",
+        "はがね"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "榛田",
+      "readings": [
+        "はりた",
+        "はるた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "掃守",
+      "readings": [
+        "かんもり",
+        "はきもり"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽塚",
+      "readings": [
+        "はねづか",
+        "はづか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "葉木",
+      "readings": [
+        "はぎ",
+        "はき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "運",
+      "readings": [
+        "うん",
+        "はこび"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "白畠",
+      "readings": [
+        "しらはた",
+        "はくはた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "苞山",
+      "readings": [
+        "ほうやま",
+        "つとやま",
+        "はやま",
+        "もとやま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "旗川",
+      "readings": [
+        "はたがわ",
+        "はたかわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "土師野",
+      "readings": [
+        "はしの",
+        "はじの"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱平",
+      "readings": [
+        "はまひら",
+        "はまたいら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽片",
+      "readings": [
+        "はかた",
+        "はがた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "播上",
+      "readings": [
+        "ばんじょう",
+        "はたがみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "浜飯",
+      "readings": [
+        "はまいい",
+        "はまい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱嶋",
+      "readings": [
+        "はまじま",
+        "はましま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "飯古",
+      "readings": [
+        "いいふる",
+        "はんこ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽廣",
+      "readings": [
+        "はびろ",
+        "はひろ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "端下",
+      "readings": [
+        "はなした",
+        "はたした"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "晴柀",
+      "readings": [
+        "はれまき",
+        "はるまき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "蓜島",
+      "readings": [
+        "はいしま",
+        "はいじま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "白露",
+      "readings": [
+        "しらつゆ",
+        "はくろ",
+        "しろ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "白楽",
+      "readings": [
+        "しらく",
+        "はくらく"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "灰島",
+      "readings": [
+        "はいじま",
+        "はいしま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八張",
+      "readings": [
+        "やばり",
+        "はっちょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "長鳥",
+      "readings": [
+        "ながとり",
+        "はちょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "花土",
+      "readings": [
+        "はなと",
+        "はなど",
+        "かど"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "浜宇津",
+      "readings": [
+        "はまうづ",
+        "はまうず"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "端地",
+      "readings": [
+        "はしじ",
+        "はしぢ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濤崎",
+      "readings": [
+        "とさき",
+        "とざき",
+        "はとざき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "梁原",
+      "readings": [
+        "やなはら",
+        "はしはら",
+        "りょうはら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "櫨畑",
+      "readings": [
+        "はぜはた",
+        "はじはた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "荷葉",
+      "readings": [
+        "かよう",
+        "はすば"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "春戸",
+      "readings": [
+        "しゅんと",
+        "はると"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱波",
+      "readings": [
+        "はまなみ",
+        "はまば"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "葉方",
+      "readings": [
+        "はかた",
+        "はがた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "底",
+      "readings": [
+        "そこ",
+        "はこ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "箱上",
+      "readings": [
+        "はこじょう",
+        "はこがみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽田地",
+      "readings": [
+        "はだち",
+        "はたち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "幡丸",
+      "readings": [
+        "まんまる",
+        "はたまる"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱里",
+      "readings": [
+        "はまさと",
+        "はまざと"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "半坂",
+      "readings": [
+        "はんざか",
+        "はんさか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "架間",
+      "readings": [
+        "かさま",
+        "はざま",
+        "かけま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "萩行",
+      "readings": [
+        "はんぎょう",
+        "はぎゆき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "橋積",
+      "readings": [
+        "はしづみ",
+        "はしずみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "橋冨",
+      "readings": [
+        "はしとみ",
+        "はしどみ",
+        "はしとめ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "張籠",
+      "readings": [
+        "はりかご",
+        "はりこ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "開野",
+      "readings": [
+        "かいの",
+        "はりの"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "原囿",
+      "readings": [
+        "はらぞの",
+        "はらその"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "朔",
+      "readings": [
+        "さく",
+        "はじめ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "計倉",
+      "readings": [
+        "とくら",
+        "けいくら",
+        "はかりくら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "原垣内",
+      "readings": [
+        "はらごうち",
+        "はらがうち",
+        "はらがきうち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "母倉",
+      "readings": [
+        "ぼそう",
+        "ははくら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "長子谷",
+      "readings": [
+        "ちょうしだに",
+        "はしたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八田原",
+      "readings": [
+        "はったわら",
+        "はったはら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "藩",
+      "readings": [
+        "ばん",
+        "はん"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱嵜",
+      "readings": [
+        "はまさき",
+        "はまざき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "長深田",
+      "readings": [
+        "ながふかだ",
+        "ながふかた",
+        "はみた",
+        "はみだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八河",
+      "readings": [
+        "やつかわ",
+        "やがわ",
+        "はちかわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八田羽",
+      "readings": [
+        "はったわ",
+        "はったは",
+        "やたば"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八岡",
+      "readings": [
+        "やつおか",
+        "はちおか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "畠澤",
+      "readings": [
+        "はたざわ",
+        "はたさわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "花栄",
+      "readings": [
+        "はなえ",
+        "はなぶさ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "白鶴",
+      "readings": [
+        "しらつる",
+        "はくつる"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "萩塚",
+      "readings": [
+        "はぎつか",
+        "はぎづか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "春澤",
+      "readings": [
+        "はるさわ",
+        "はるざわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "早嶋",
+      "readings": [
+        "はやしま",
+        "はやじま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "南風立",
+      "readings": [
+        "はえだて",
+        "はいだて"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "拝司",
+      "readings": [
+        "はいし",
+        "はいじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "英田",
+      "readings": [
+        "あいだ",
+        "ふさだ",
+        "はなだ",
+        "えいだ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "伯ケ部",
+      "readings": [
+        "はくべ",
+        "はかべ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱門",
+      "readings": [
+        "はまかど",
+        "はまじょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "流合",
+      "readings": [
+        "はぎえ",
+        "はっけ",
+        "ながれあい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "籏谷",
+      "readings": [
+        "はたや",
+        "はたたに"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "原馬",
+      "readings": [
+        "はらうま",
+        "はらま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "鱧永",
+      "readings": [
+        "はもなが",
+        "はぶなが"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "繁地",
+      "readings": [
+        "しげち",
+        "はんじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "長谷阪",
+      "readings": [
+        "はせさか",
+        "はせざか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "初治",
+      "readings": [
+        "ういじ",
+        "はつじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱津",
+      "readings": [
+        "はまつ",
+        "はまづ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "拝崎",
+      "readings": [
+        "はいさき",
+        "はいざき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "花篤",
+      "readings": [
+        "けいとく",
+        "はなとく"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "鳩飼",
+      "readings": [
+        "はとがい",
+        "はとかい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "裸野",
+      "readings": [
+        "はだの",
+        "はだかの"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "範",
+      "readings": [
+        "のり",
+        "はん"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "坡下",
+      "readings": [
+        "はもと",
+        "はした"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱治",
+      "readings": [
+        "はまじ",
+        "はまぢ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "走崎",
+      "readings": [
+        "はしりざき",
+        "はしざき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "坡平",
+      "readings": [
+        "はびら",
+        "さかひら",
+        "はたひら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽出山",
+      "readings": [
+        "はつやま",
+        "はでやま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "弭間",
+      "readings": [
+        "はずま",
+        "はづま",
+        "はじま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "八阪",
+      "readings": [
+        "やさか",
+        "はちさか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "服崎",
+      "readings": [
+        "はらざき",
+        "ふくざき",
+        "はつざき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "秦地",
+      "readings": [
+        "はたじ",
+        "はだち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "吐山",
+      "readings": [
+        "はやま",
+        "はくやま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "華房",
+      "readings": [
+        "はなふさ",
+        "はなぶさ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "土室",
+      "readings": [
+        "つちむろ",
+        "はむろ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濱家",
+      "readings": [
+        "はまいえ",
+        "はまや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "発",
+      "readings": [
+        "はつ",
+        "ひらき",
+        "はり"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "波治",
+      "readings": [
+        "なみじ",
+        "はじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽白",
+      "readings": [
+        "はじろ",
+        "はしろ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽斗",
+      "readings": [
+        "はと",
+        "はねと"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "萩嵜",
+      "readings": [
+        "はぎざき",
+        "はぎさき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "灰崎",
+      "readings": [
+        "はいさき",
+        "はいざき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "蠅野",
+      "readings": [
+        "はえの",
+        "はいの"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "始澤",
+      "readings": [
+        "しざわ",
+        "はじめさわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "八須賀",
+      "readings": [
+        "はちすか",
+        "はちすが"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "生柄",
+      "readings": [
+        "はいづか",
+        "はえづか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "萩澤",
+      "readings": [
+        "はぎさわ",
+        "はぎざわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "羽毛",
+      "readings": [
+        "はも",
+        "はげ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "初澤",
+      "readings": [
+        "はつざわ",
+        "はつさわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "巴川",
+      "readings": [
+        "ともえがわ",
+        "はがわ",
+        "ともかわ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "花海",
+      "readings": [
+        "はなうみ",
+        "はなみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "早越",
+      "readings": [
+        "はやごし",
+        "はやこし"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "挟間",
+      "readings": [
+        "はざま",
+        "はさま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽衣",
+      "readings": [
+        "はい",
+        "はごろも"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "白政",
+      "readings": [
+        "しろまさ",
+        "しらまさ",
+        "はくまさ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "土中",
+      "readings": [
+        "どなか",
+        "つちなか",
+        "はなか"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "治多",
+      "readings": [
+        "はるた",
+        "はった"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "泊谷",
+      "readings": [
+        "とまりや",
+        "はくや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "羽代",
+      "readings": [
+        "はしろ",
+        "はじろ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "端口",
+      "readings": [
+        "はたぐち",
+        "はなぐち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "春貝地",
+      "readings": [
+        "はるかいち",
+        "はるがいち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "早生",
+      "readings": [
+        "はやなり",
+        "はやしょう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "原城",
+      "readings": [
+        "はらき",
+        "はらしろ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濵﨑",
+      "readings": [
+        "はまざき",
+        "はまさき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濵口",
+      "readings": [
+        "はまぐち",
+        "はまくち",
+        "はまのぐち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濵野",
+      "readings": [
+        "はまの",
+        "はまや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "早﨑",
+      "readings": [
+        "はやさき",
+        "はやざき",
+        "そうさき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濵地",
+      "readings": [
+        "はまち",
+        "はまじ",
+        "はまぢ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "畔栁",
+      "readings": [
+        "あぜやなぎ",
+        "あぜやぎ",
+        "こやなぎ",
+        "ほとやなぎ",
+        "くろやなぎ",
+        "くろかなぎ",
+        "はんやなぎ",
+        "ばんやなぎ",
+        "はんやぎ",
+        "はんりゅう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濵島",
+      "readings": [
+        "はましま",
+        "はまじま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "濵上",
+      "readings": [
+        "はまうえ",
+        "はまかみ",
+        "はまがみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "箱﨑",
+      "readings": [
+        "はこさき",
+        "はこざき"
+      ],
+      "population": "ごくわずか"
+    }
+  ]
+}

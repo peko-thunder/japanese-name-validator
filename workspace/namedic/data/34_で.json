@@ -1,0 +1,635 @@
+{
+  "yomi": "で",
+  "index": "34",
+  "totalCount": 71,
+  "collectedAt": "2026-02-24T10:32:20.230Z",
+  "entries": [
+    {
+      "kanji": "出口",
+      "readings": [
+        "でぐち",
+        "いでぐち",
+        "でくち",
+        "いでくち"
+      ],
+      "population": "多い"
+    },
+    {
+      "kanji": "田野",
+      "readings": [
+        "たの",
+        "でんの"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "田頭",
+      "readings": [
+        "たがしら",
+        "でんどう",
+        "たがみ",
+        "たかしら",
+        "たどう"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "出井",
+      "readings": [
+        "いでい",
+        "でい",
+        "いずい",
+        "いづい",
+        "つくい"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "田平",
+      "readings": [
+        "たひら",
+        "たびら",
+        "でんびら",
+        "たいら"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "出水",
+      "readings": [
+        "でみず",
+        "いずみ",
+        "いづみ",
+        "ですい",
+        "いでみ",
+        "いでみず"
+      ],
+      "population": "やや珍しい"
+    },
+    {
+      "kanji": "出原",
+      "readings": [
+        "いではら",
+        "いずはら",
+        "ではら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出田",
+      "readings": [
+        "いでた",
+        "いずた",
+        "でた",
+        "いづた"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出野",
+      "readings": [
+        "いでの",
+        "での",
+        "いずの"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出川",
+      "readings": [
+        "でがわ",
+        "いずかわ",
+        "いでがわ",
+        "いでかわ",
+        "でかわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "伝田",
+      "readings": [
+        "でんだ",
+        "でんた",
+        "でんでん"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出羽",
+      "readings": [
+        "でわ",
+        "いずわ",
+        "いずは",
+        "いづは",
+        "いづわ",
+        "でば"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出崎",
+      "readings": [
+        "でさき",
+        "でざき",
+        "いでさき",
+        "いずさき"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出島",
+      "readings": [
+        "でじま",
+        "でしま"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出浦",
+      "readings": [
+        "いでうら",
+        "でうら"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出沢",
+      "readings": [
+        "でざわ",
+        "でさわ",
+        "いでさわ",
+        "いでざわ"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出石",
+      "readings": [
+        "いずし",
+        "いずいし",
+        "でいし",
+        "いでいし"
+      ],
+      "population": "珍しい"
+    },
+    {
+      "kanji": "出倉",
+      "readings": [
+        "でくら",
+        "でぐら",
+        "いずくら",
+        "いでくら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出海",
+      "readings": [
+        "いずみ",
+        "でうみ",
+        "でかい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出光",
+      "readings": [
+        "いでみつ",
+        "でみつ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出岡",
+      "readings": [
+        "いずおか",
+        "でおか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出利葉",
+      "readings": [
+        "いでりは",
+        "でりは"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出沼",
+      "readings": [
+        "いでぬま",
+        "でぬま"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出蔵",
+      "readings": [
+        "でぐら",
+        "でくら"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出張",
+      "readings": [
+        "でばり",
+        "ではり"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出路",
+      "readings": [
+        "でじ",
+        "いずろ",
+        "でみち"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出縄",
+      "readings": [
+        "いでなわ",
+        "でなわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出納",
+      "readings": [
+        "すいどう",
+        "すいとう",
+        "でのう"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出永",
+      "readings": [
+        "いでなが",
+        "でなが",
+        "いずなが"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出下",
+      "readings": [
+        "いでした",
+        "でした",
+        "でじた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出谷",
+      "readings": [
+        "でたに",
+        "いずや",
+        "でや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出居",
+      "readings": [
+        "いでい",
+        "でい"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出塚",
+      "readings": [
+        "いでづか",
+        "でづか",
+        "いでつか",
+        "でつか"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出家",
+      "readings": [
+        "でいえ",
+        "でっけ",
+        "いずや",
+        "でや"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出葉",
+      "readings": [
+        "でわ",
+        "いずは",
+        "では",
+        "でば"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出河",
+      "readings": [
+        "でがわ",
+        "いでがわ",
+        "でかわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出上",
+      "readings": [
+        "いでうえ",
+        "でがみ",
+        "いずがみ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出畑",
+      "readings": [
+        "ではた",
+        "でばた"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "伝谷",
+      "readings": [
+        "でんや",
+        "でんたに",
+        "つたや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出丸",
+      "readings": [
+        "いでまる",
+        "でまる"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出尾",
+      "readings": [
+        "いずお",
+        "でお"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出来島",
+      "readings": [
+        "できしま",
+        "できじま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出繩",
+      "readings": [
+        "いでなわ",
+        "でなわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出戸端",
+      "readings": [
+        "でとばた",
+        "でとはた"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出江",
+      "readings": [
+        "いずえ",
+        "いずみ",
+        "でえ",
+        "いづえ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出久地",
+      "readings": [
+        "でぐち",
+        "でくち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出孝",
+      "readings": [
+        "でっこう",
+        "でこう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "伝保",
+      "readings": [
+        "でんぽ",
+        "でんぼ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出藏",
+      "readings": [
+        "でぐら",
+        "でくら"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出藤",
+      "readings": [
+        "でとう",
+        "でふじ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出来谷",
+      "readings": [
+        "できたに",
+        "できがい",
+        "できや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "傳法",
+      "readings": [
+        "でんぽう",
+        "でんぼう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出澤",
+      "readings": [
+        "でざわ",
+        "でさわ",
+        "いでさわ",
+        "いでざわ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出木",
+      "readings": [
+        "でき",
+        "でぎ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出木谷",
+      "readings": [
+        "できや",
+        "できたに",
+        "できがい"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出野上",
+      "readings": [
+        "でのかみ",
+        "でのがみ"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出仙",
+      "readings": [
+        "でっせん",
+        "でせん"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出内",
+      "readings": [
+        "いでうち",
+        "でうち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出竃",
+      "readings": [
+        "でがま",
+        "でかま"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出元",
+      "readings": [
+        "いずもと",
+        "でもと",
+        "いでもと"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "傳田",
+      "readings": [
+        "でんだ",
+        "でんた",
+        "つたえだ"
+      ],
+      "population": "とても珍しい"
+    },
+    {
+      "kanji": "出森",
+      "readings": [
+        "いでもり",
+        "でもり"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出立",
+      "readings": [
+        "でだち",
+        "でたち"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出作",
+      "readings": [
+        "でづくり",
+        "でさく"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出橋",
+      "readings": [
+        "ではし",
+        "でばし"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出村谷",
+      "readings": [
+        "でむらたに",
+        "でむらや"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出分",
+      "readings": [
+        "でぶん",
+        "でわき"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "田遠",
+      "readings": [
+        "でんどう",
+        "でんどお",
+        "たとお",
+        "たとう"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出木場",
+      "readings": [
+        "いでこば",
+        "できば"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出堀",
+      "readings": [
+        "でぼり",
+        "でほり"
+      ],
+      "population": "ごくわずか"
+    },
+    {
+      "kanji": "出来田",
+      "readings": [
+        "できた",
+        "できでん"
+      ],
+      "population": "とても珍しい"
+    }
+  ]
+}
